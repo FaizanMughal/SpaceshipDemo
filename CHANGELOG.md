@@ -1,5 +1,65 @@
 # CHANGELOG
 
+## 2021 - 02 - 17 - LTS 2020.2 Version
+
+**Version Tag** : `2020.2.0`
+
+* Updated Unity to 2020.2.4f1
+* Updated HDRP/VFX to 10.3.1
+
+* **Fixes and Changes:**
+  * Rebuilt Lighting
+  * Rebuilt VFX Graphs
+  * Fixed Many Errors and Warnings
+  * Fixed Animated Light Cookes (CustomRenderTexture)
+  * Block Player input while in pause/toggle console
+
+## 2021 - 02 - 08 - 2020.1 Update
+
+**Version Tag** : `2020.1.1`
+
+* Updated Unity to 2020.1.17f1
+* Updated HDRP/VFX to 8.3.1
+
+* **Fixes and Changes:**
+  * Rebuilt Lighting
+  * Rebuilt VFX Graphs
+  * Fixed Lights with broken Cookie textures
+
+## 2020 - 08 - 06 - 2020.1 Version
+
+**Version Tag** : `2020.1.0`
+
+* Updated Unity to 2020.1.0f1
+* **Fixes and Changes:**
+  * Rebuilt Lighting
+  * Rebuilt VFX Graphs
+
+## 2020 - 08 - 06 - LTS 2019.4 Version
+
+**Version Tag** : `2019.4.0`
+
+* Updated Unity to 2019.4.3f1
+* Updated Timeline Package to 1.4.1
+* Added Benchmark Mode (Flyby Camera)
+* **Fixes and Changes:**
+  * Rebuilt VFX Graphs
+  * Small Fixes for macOS
+
+## 2020 - 06 - 08 - Package Upgrade
+
+**Version Tag** : `2019.3.3`
+
+* Updated Unity to 2019.3.15f1
+* Updated HD Render Pipeline / VFX Graph to package `7.4.1`
+* Updated Timeline Package to `1.3.0`
+* Removed references to many unnecessary built-in modules
+* Removed reference to Recorder Package
+* **Fixes and Changes:**
+  * Rebuilt VFX Graphs
+  * Fixes Area Light meshes that were broken (always visible) while using `7.3.1`
+  * Updated Gameplay Ingredients
+
 ## 2020 - 02 - 03 - Content Update
 
 **Version Tag** : `2019.3.2`
